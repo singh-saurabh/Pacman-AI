@@ -813,7 +813,7 @@ class pacman ():
 		self.y = 0
 		self.velX = 0
 		self.velY = 0
-		self.speed = 3
+		self.speed = 2
 		
 		self.nearestRow = 0
 		self.nearestCol = 0
